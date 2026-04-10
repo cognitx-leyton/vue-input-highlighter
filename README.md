@@ -2,6 +2,8 @@
 
 # Vue Input Highlighter
 
+![License](https://img.shields.io/github/license/cognitx-leyton/vue-input-highlighter?style=flat-square) ![Stars](https://img.shields.io/github/stars/cognitx-leyton/vue-input-highlighter?style=flat-square) ![npm](https://img.shields.io/npm/v/@leyton-techlab/vue-input-highlighter?style=flat-square&logo=npm) ![Vue 3](https://img.shields.io/badge/vue-3.x-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
 Component that allows content highlighting within an input field based on specified regular expressions (regexes).
 
 It enhances user experience by providing visual feedback about specified patterns recognized and improves the interaction the user have with the input.
@@ -193,3 +195,9 @@ Many thanks to :
  - [@akiyamaSM](https://github.com/akiyamaSM)
 
 for the reviews and advice
+
+---
+
+<p align="center">
+  <sub>Built with care by <a href="https://cognitx.leyton.com/">Leyton CognitX</a></sub>
+</p>
